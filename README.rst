@@ -53,7 +53,7 @@ Requirements
 ============
     python >=2.7 (including python3)
 
-    (Python 2.6 might still work, but it's not supported any more since v3.1.0.)
+    (Python 2.6 might still work, but it's not supported any more since v3.2.0.)
 
     biothings_client_ (>=0.2.0, install using "pip install biothings_client")
 
